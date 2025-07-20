@@ -47,8 +47,8 @@ I specialize in **building robust automation frameworks** that simplify processe
 ---
 
 ## **Highlighted Projects**
-- **[Selenium Automation Framework](https://github.com/chandrasai-illapu/selenium-learning-lab-1 && https://github.com/chandrasai-illapu/selenium-learning-lab-3)** – A modular, POM-based framework with TestNG & Extent Reports.
-- **[REST Assured API Framework](https://github.com/chandrasai-illapu/rest-assured-learning-lab)** – API automation with Rest Assured + TestNG.
+- **[Selenium Automation Projects](https://github.com/chandrasai-illapu/selenium-learning-lab-1 && https://github.com/chandrasai-illapu/selenium-learning-lab-3)** – A modular, POM-based framework with TestNG & Extent Reports.
+- **[REST Assured API Projects](https://github.com/chandrasai-illapu/rest-assured-learning-lab)** – API automation with Rest Assured + TestNG.
 - **[SoapUI Projects](https://github.com/chandrasai-illapu/soapui-learning-lab)** – SOAP & REST services test cases.
 - **[Appium Projects](https://github.com/chandrasai-illapu/appium-learning-lab)** – SOAP & REST services test cases.
 - **[Java Projects](https://github.com/chandrasai-illapu/java-learning-lab)** – SOAP & REST services test cases.
