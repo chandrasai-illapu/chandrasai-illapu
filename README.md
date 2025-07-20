@@ -1,6 +1,6 @@
 # Hi, I'm Chandra Sai 👋  
 
-**SDET | Automation & Manual Test Engineer | API & UI Testing | Playwright | Rest Assured | SOAP UI | Selenium | Cucumber | QMetry Automation Framework | Appium | Java | Javascript | DB Validations | Cloud (GCP) | CI/CD | Agile Methodologies**  
+**Software Developement Engineer in Test (SDET) | Automation & Manual Test Engineer | API & UI Testing | Playwright | Rest Assured | SOAP UI | Selenium | Cucumber | QMetry Automation Framework | Appium | Java | Javascript | DB Validations | Cloud (GCP) | CI/CD | Agile Methodologies**  
 
 SDET with over **3 years of hands-on experience in API and UI automation as well as manual testing**, using industry-standard tools and methodologies to ensure thorough and efficient software testing.
 
