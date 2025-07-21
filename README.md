@@ -1,8 +1,8 @@
 # Hi, I'm Chandra Sai 👋  
 
-**Software Developement Engineer in Test (SDET) | Automation & Manual Test Engineer | API & UI Testing | Playwright | Rest Assured | SOAP UI | Selenium | Cucumber | QMetry Automation Framework | Appium | Java | Javascript | DB Validations | Cloud (GCP) | CI/CD | Agile Methodologies**  
+**Senior Software Developement Engineer in Test (SDET) | Automation & Manual Test Engineer | API & UI Testing | Playwright | Selenium | Rest Assured | Appium | QMetry Automation Framework | SOAP UI | Cucumber | Java | Javascript | DB Validations | Cloud (GCP) | CI/CD | Agile Methodologies**  
 
-SDET with over **3 years of hands-on experience in API and UI automation as well as manual testing**, using industry-standard tools and methodologies to ensure thorough and efficient software testing.
+Senior SDET with over **3.3 years of hands-on experience in API and UI automation as well as manual testing**, using industry-standard tools and methodologies to ensure thorough and efficient software testing.
 
 I specialize in **building robust automation frameworks** that simplify processes, improve accuracy, and ensure quality. I am committed to delivering high-quality solutions, collaborating effectively with teams, and continuously learning to stay ahead in a fast-evolving tech landscape.
 
@@ -11,7 +11,7 @@ I specialize in **building robust automation frameworks** that simplify processe
 ## **Skills & Expertise**
 
 ### **1. API Automation Testing**
-- Rest Assured, QMetry, SOAP UI, Playwright
+- Playwright, Rest Assured, QMetry Automation Framework (QAF), SOAP UI
 
 ### **2. UI Automation Testing**
 - Playwright, Selenium
@@ -33,7 +33,7 @@ I specialize in **building robust automation frameworks** that simplify processe
 - Java, JavaScript
 
 ### **8. Testing Frameworks**
-- TestNG, JUnit, Cucumber (BDD), QMetry (QAF Automation Framework)
+- TestNG, JUnit, Cucumber (BDD), QMetry Automation Framework (QAF)
 
 ### **9. Agile Methodologies**
 - Scrum
